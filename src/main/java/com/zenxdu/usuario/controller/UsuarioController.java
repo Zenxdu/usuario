@@ -20,5 +20,4 @@ public class UsuarioController {
     public ResponseEntity<UsuarioDTO> salvausuario(@RequestBody UsuarioDTO usuarioDTO){
         return ResponseEntity.ok(usuarioService.salvaUsuario(usuarioDTO));
     }
-
 }
