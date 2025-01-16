@@ -1,6 +1,6 @@
 package com.zenxdu.usuario.infrastructure.repository;
 
-import com.zenxdu.projetospring.infrastructure.entity.Endereco;
+import com.zenxdu.usuario.infrastructure.entity.Endereco;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

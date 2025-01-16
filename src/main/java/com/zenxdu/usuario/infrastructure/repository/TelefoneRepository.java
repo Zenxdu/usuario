@@ -1,6 +1,6 @@
 package com.zenxdu.usuario.infrastructure.repository;
 
-import com.zenxdu.projetospring.infrastructure.entity.Telefone;
+import com.zenxdu.usuario.infrastructure.entity.Telefone;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
